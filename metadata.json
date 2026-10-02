@@ -1,0 +1,6 @@
+{
+  "name": "TDMA Network Brain",
+  "description": "Centralized TDMA schedule optimizer for wireless radio networks with Distance-2 graph coloring, spatial reuse, collision validation, and EMANE simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
